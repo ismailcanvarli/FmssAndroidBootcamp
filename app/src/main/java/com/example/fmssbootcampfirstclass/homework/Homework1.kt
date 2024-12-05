@@ -1,6 +1,6 @@
 //Created by canVarli on 12/3/2024
 
-package com.example.fmssbootcampfirstclass.variable
+package com.example.fmssbootcampfirstclass.homework
 
 fun main() {
     // İlçe
